@@ -24,6 +24,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:neil10241126/neil10241126.github.io.git main
 
 # 部署到 https://neil10241126.github.io/vue3-week6
-git push -f git@github.com:neil10241126/Vue3-week6.git main:gh-pages
+git push -f https://github.com/Neil10241126/Vue3-week6.git main:gh-pages
 
 cd -
